@@ -1,0 +1,6 @@
+framework module Pods_ios_lottie_animation {
+  umbrella header "Pods-ios-lottie-animation-umbrella.h"
+
+  export *
+  module * { export * }
+}
